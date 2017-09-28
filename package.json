@@ -1,0 +1,15 @@
+{
+  "name": "obligatorisk_opgave",
+  "version": "1.0.0",
+  "description": "obligatorisk opgave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4"
+  }
+}
