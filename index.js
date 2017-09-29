@@ -60,6 +60,15 @@ app.get ('/signup', function(req,res)
     })
 })
 
+app.get ('/msgBoard', function(req,res)
+{
+    res.sendFile(myPath + 'msgBoard.html', function (err)
+    {
+
+    })
+
+})
+
 
 
 .listen(process.env.PORT || 8888)
