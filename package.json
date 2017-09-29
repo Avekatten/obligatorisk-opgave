@@ -3,20 +3,16 @@
   "version": "1.0.0",
   "description": "obligatorisk opgave",
   "main": "index.js",
-  "scripts":
-  {
+  "scripts": {
     "start": "node index.js"
   },
-  "engines":
-  {
+  "engines": {
     "node": "6.11.3"
   },
   "author": "Andreas S",
   "license": "ISC",
-  "dependencies":
-  {
+  "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.15.4"
+    "express": "^4.16.0"
   }
-  
 }
